@@ -8,14 +8,13 @@ Event dictatorship goes on in the [issues page][1].
 - assign yourself as dictator
 - copy in the event TODO list:
 
-    TODO: make better/longer
-    - [√] copied in event checklist
-    - [ ] announced event to facebook, ugrad, etc
-    - [ ] reserved room, made sure no conflicts
-    - [ ] read over [how to host an event](https://github.com/hackersatbrown/hackersatbrown.github.com/wiki/How-to-host-an-event)
-    - [ ] delegated to other people!
-    - [ ] ?
-
+        TODO: make better/longer
+        - [√] copied in event checklist
+        - [ ] announced event to facebook, ugrad, etc
+        - [ ] reserved room, made sure no conflicts
+        - [ ] read over [how to host an event](https://github.com/hackersatbrown/hackersatbrown.github.com/wiki/How-to-host-an-event)
+        - [ ] delegated to other people!
+        - [ ] ?
 - check off items as you do them and get it done! :)
 - ask David/Charles/Rakesh for help as needed (just @mention them or email them)
 
