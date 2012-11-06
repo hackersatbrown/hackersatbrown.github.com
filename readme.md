@@ -1,6 +1,6 @@
 # Hackers @ Brown
 
-Quick links: [events-in-progress][1], [wiki][3], [how to run an event][3], [responsibilities][4].
+Quick links: [events-in-progress][1], [wiki][3], [how to run an event][5], [responsibilities][4].
 
 This is the code for the website.
 
@@ -29,8 +29,8 @@ Event dictatorship goes on in the [issues page][1].
 - decide that you want to make an event happen, or volunteer to help someone
   else
 
-
 [1]:https://github.com/hackersatbrown/hackersatbrown.github.com/issues?state=open
 [2]:https://www.facebook.com/groups/hackersatbrown
 [3]:https://github.com/hackersatbrown/hackersatbrown.github.com/wiki/_pages
 [4]:https://github.com/hackersatbrown/hackersatbrown.github.com/wiki/Responsibilities
+[5]:https://github.com/hackersatbrown/hackersatbrown.github.com/wiki/How-to-host-an-event
