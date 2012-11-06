@@ -12,13 +12,17 @@ Event dictatorship goes on in the [issues page][1].
 
         TODO: make better/longer
         - [√] copied in event checklist
-        - [ ] announced event to facebook, ugrad, etc
-        - [ ] reserved room, made sure no conflicts
-        - [ ] read over [how to host an event](https://github.com/hackersatbrown/hackersatbrown.github.com/wiki/How-to-host-an-event)
+        - [ ] reserved room, made sure no conflicts        
+        - [ ] made a poster or asked charles to make one for the event        
+        - [ ] announced event to [ ]facebook, [ ]ugrad, [ ]morning mail
+        - [ ] read over [how to host an event](https://github.com/hackersatbrown/hackersatbrown.github.com/wiki/How-to-host-an-event)                
         - [ ] delegated to other people!
         - [ ] ?
+
 - check off items as you do them and get it done! :)
 - ask David/Charles/Rakesh for help as needed (just @mention them or email them)
+- first-timers to event organization should sit down with david/charles/rakesh 
+  to run lightly through the checklist and get a feel for how it all works
 
 ## How to get involved in H@B
 - start coming to meetings (announced on [FB group][2])
