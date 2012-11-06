@@ -12,7 +12,7 @@ Event dictatorship goes on in the [issues page][1].
 
         - [√] copied in event checklist
         - [ ] reserved room, made sure no conflicts        
-        - [ ] announced event to [ ]facebook, [ ]ugrad, [ ]morning mail
+        - [ ] announced event to [ ]facebook, [ ]ugrad åt lists.cs.brown.edu, [ ]morning mail
         - [ ] optional: made a poster or asked charles to make one for the event                
         - [ ] read over [how to host an event](https://github.com/hackersatbrown/hackersatbrown.github.com/wiki/How-to-host-an-event)                
         - [ ] delegated to other people!
