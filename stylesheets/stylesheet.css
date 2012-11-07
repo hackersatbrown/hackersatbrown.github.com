@@ -3,9 +3,12 @@ body {
   padding: 0;
   background: #151515 url("../images/bkg.png") 0 0;
   color: #eaeaea;
-  font: 16px;
+  font-size: 125%;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans",
+  "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed",
+  "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue",
+  Helvetica, Arial, sans-serif;
 }
 
 /* General & 'Reset' Stuff */
@@ -23,6 +26,7 @@ section {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
 li {
