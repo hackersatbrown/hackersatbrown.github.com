@@ -19,7 +19,7 @@ Event dictatorship goes on in the [issues page][1].
         - [ ] ?
 
 - check off items as you do them and get it done! :)
-- ask David/Charles/Rakesh for help as needed (just @mention them or email them)
+- ask Charles/Mackenzie for help as needed (just @mention them or email them)
 - first-timers to event organization should sit down with david/charles/rakesh 
   to run lightly through the checklist and get a feel for how it all works
 
