@@ -1,4 +1,4 @@
-# Hackers @ Brown
+# CS DUG (formerly known as H@B)
 
 Quick links: [events-in-progress][1], [wiki][3], [how to run an event][5], [responsibilities][4].
 
@@ -20,10 +20,10 @@ Event dictatorship goes on in the [issues page][1].
 
 - check off items as you do them and get it done! :)
 - ask Charles/Mackenzie for help as needed (just @mention them or email them)
-- first-timers to event organization should sit down with david/charles/rakesh 
+- first-timers to event organization should sit down with Mackenzie/Charles 
   to run lightly through the checklist and get a feel for how it all works
 
-## How to get involved in H@B
+## How to get involved in CS DUG
 - start coming to meetings (announced on [FB group][2])
 - meetings are 30 minutes long
 - decide that you want to make an event happen, or volunteer to help someone
